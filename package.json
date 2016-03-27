@@ -1,0 +1,16 @@
+{
+  "name": "weighted.random",
+  "version": "0.0.1",
+  "description": "weighted random event generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weighted",
+    "random",
+    "category"
+  ],
+  "author": "hagb4rd",
+  "license": "ISC"
+}
